@@ -1,0 +1,114 @@
+{
+    "stacks": [
+        {
+            "frontend": [
+                {
+                    "id": "100",
+                    "title": "React & JSX",
+                    "knowledge": "+++"
+                },
+                {
+                    "id": "101",
+                    "title": "React Native",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "102",
+                    "title": "VueJS",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "103",
+                    "title": "HTML, CSS, SCSS",
+                    "knowledge": "++++"
+                },
+                {
+                    "id": "104",
+                    "title": "Grunt, Gulp",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "105",
+                    "title": "JavaScript",
+                    "knowledge": "++"
+                },
+                {
+                    "id": "106",
+                    "title": "ClojureScript",
+                    "knowledge": "++++"
+                }
+            ],
+            "backend": [
+                {
+                    "id": "200",
+                    "title": "Java",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "201",
+                    "title": "Django",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "202",
+                    "title": "Clojure",
+                    "knowledge": "++++"
+                },
+                {
+                    "id": "203",
+                    "title": "Python",
+                    "knowledge": "++"
+                }
+            ],
+            "database-api": [
+                {
+                    "id": "300",
+                    "title": "APIs REST",
+                    "knowledge": "+++"
+                },
+                {
+                    "id": "301",
+                    "title": "Firebase",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "302",
+                    "title": "Firebase",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "303",
+                    "title": "AWS S3",
+                    "knowledge": "+"
+                }
+            ],
+            "devops-infra": [
+                {
+                    "id": "400",
+                    "title": "Terraform",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "401",
+                    "title": "Kubernets",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "402",
+                    "title": "Zabbix",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "403",
+                    "title": "Kafka",
+                    "knowledge": "+"
+                },
+                {
+                    "id": "404",
+                    "title": "AVRO",
+                    "knowledge": "+"
+                }
+            ]
+        }
+    ]
+}
