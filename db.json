@@ -111,7 +111,7 @@
       ]
     }
   ],
-  "agendajs": {
+  "project-links": [{"agendajs": {
     "url": "https://agenda-js-rust.vercel.app/"
   },
   "bootstrap": {
@@ -185,5 +185,5 @@
   },
   "vue": {
     "url": ""
-  }
+  }}]
 }
